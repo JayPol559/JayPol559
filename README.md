@@ -65,12 +65,3 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats  
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypol559&show_icons=true&layout=compact&theme=algolia" height="180px" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=jaypol559&show_icons=true&theme=algolia" height="180px" />
-
-</div>
