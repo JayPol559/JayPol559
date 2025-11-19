@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**JayPol559/JayPol559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- TOP BANNER -->
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" />
 
-Here are some ideas to get you started:
+  <h1>Hi 👋, I'm <strong>Jay POL</strong></h1>
+  <h3>AI Developer • Prompt Engineer • Open Source Contributor</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- CENTER CODING GIF -->
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" width="400px" />
+
+  <!-- TROPHY SECTION -->
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=jaypol559&theme=algolia&margin-w=10" alt="trophies" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+## 🔭 Current Work  
+- Building **Medical Triage System**  
+  👉 https://github.com/JayPol559/medicaltriagesystem  
+- Contributing to **OpenCV**  
+  👉 https://github.com/opencv/opencv  
+
+## 📫 Contact Me  
+**Email:** poljay9999@gmail.com
+
+---
+
+## 🌐 Connect With Me  
+<div align="center">
+
+<a href="https://twitter.com/jaypol555"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" /></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/jaypol"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
+&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/poljay168"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" /></a>
+&nbsp;&nbsp;
+<a href="https://www.leetcode.com/jaypol559"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" /></a>
+
+</div>
+
+---
+
+## 🛠️ Languages & Tools  
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" />
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" />
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypol559&show_icons=true&layout=compact&theme=algolia" height="180px" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=jaypol559&show_icons=true&theme=algolia" height="180px" />
+
+</div>
