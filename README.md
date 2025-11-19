@@ -8,14 +8,6 @@
   <!-- CENTER CODING GIF -->
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" width="400px" />
 
-  <!-- TROPHY SECTION -->
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=jaypol559&theme=algolia&margin-w=10" alt="trophies" />
-    </a>
-  </p>
-
-</div>
 
 ---
 
