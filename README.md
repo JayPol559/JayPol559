@@ -2,7 +2,7 @@
 
   <!-- TOP BANNER -->
  
-  <h1>Hi 👋, I'm <strong>Jay POL</strong></h1>
+  <h1>Hi 👋, I'm <strong>Jay Pol</strong></h1>
   <h3>AI Developer • Prompt Engineer • Open Source Contributor</h3>
 
   <!-- CENTER CODING GIF -->
